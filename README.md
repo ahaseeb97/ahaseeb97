@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahaseeb97
+- 👋 Hi, I’m Abdul Haseeb
 - 👀 I’m interested in Android, Python, IOT, Gaming
 - 🌱 I’m currently learning Java, Python, Android
 - 📫 How to reach me:
