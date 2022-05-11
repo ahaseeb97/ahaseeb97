@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Haseeb
-- 👀 I’m interested in Android, Python, IOT, Gaming
-- 🌱 I’m currently learning Java, Python, Android
+- 👀 I’m interested in Android, Web Development, IOT, Gaming
+- 🌱 I’m currently learning Java, Python, Android, AngularJS, Spring Boot
 - 📫 How to reach me:
       email: ahaseebpa997@gmail.com
       Instagram id: ahaseeb_97
